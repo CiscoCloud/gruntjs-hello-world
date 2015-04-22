@@ -2,6 +2,8 @@
   "name": "gruntjs-hell0-world",
   "version": "0.1.0",
   "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-nodemon": "~0.3.0",
     "express": "^2.5.11"
   }
 }
