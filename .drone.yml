@@ -1,4 +1,4 @@
-image: openjdk7
+image: bradrydzewski/java:openjdk7
 git:
   path: https://github.com/CiscoCloud/gruntjs-hello-world
 script:
